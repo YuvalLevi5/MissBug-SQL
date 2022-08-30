@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "nGuUG",
+    "description": "first bug ever",
+    "title": "this is bug",
+    "severity": 2,
+    "creator": {
+      "_id": "qxkYw",
+      "fullname": "kai",
+      "username": "kai",
+      "isAdmin": true
+    }
+  },
+  {
+    "description": "dfadsf",
+    "title": "fdasfads",
+    "severity": 2,
+    "creator": {
+      "_id": "DIcmh",
+      "fullname": "fdsfads",
+      "username": "fads",
+      "isAdmin": false
+    },
+    "_id": "xPpPt",
+    "createdAt": 1657122800769
+  },
+  {
+    "description": "bla bla",
+    "title": "bla",
+    "severity": 2,
+    "creator": {
+      "_id": "yYMFu",
+      "fullname": "kai",
+      "username": "kai",
+      "isAdmin": false
+    },
+    "_id": "JtYX3",
+    "createdAt": 1660043267633
+  }
+]

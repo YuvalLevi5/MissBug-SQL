@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "u101",
+    "fullname": "kai na",
+    "username": "kai",
+    "password": "12",
+    "isAdmin": true
+  },
+  {
+    "_id": "DIcmh",
+    "fullname": "fdsfads",
+    "username": "fads",
+    "password": "fasdfads",
+    "isAdmin": false
+  },
+  {
+    "_id": "S8RqY",
+    "fullname": "fadsfads",
+    "username": "fadsfsad",
+    "password": "fadsfdsa",
+    "isAdmin": false
+  },
+  {
+    "_id": "yYMFu",
+    "fullname": "kai",
+    "username": "kai",
+    "password": "kai",
+    "isAdmin": false
+  }
+]
